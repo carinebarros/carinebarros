@@ -1,16 +1,11 @@
-### Hi there 👋
+# 👋 Hello! Welcome to my Github profile.
+## My name is Carine and I'm a Front-end developer!
 
-<!--
-**carinebarros/carinebarros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working at [**@Refera-Tech**](https://github.com/Refera-Tech)
+- 🌱 I’m currently learning more about Web accessibility and performance
+- 💻Technologies I use daily: ReactJS, Typescript, Redux, Sass and styled-components
+- 📫 How to reach me:
+  - [**Drop a Mail**](mailto:carinealzira@gmail.com)
+  - [**Connect via LinkedIn**](https://www.linkedin.com/in/carine-barros/)
+  - [**Visit my Website**](https://carine.vercel.app/)
+- 😄 Pronouns: she/her/hers
