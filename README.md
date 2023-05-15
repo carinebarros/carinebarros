@@ -1,9 +1,9 @@
 # 👋 Hello! Welcome to my Github profile.
-## My name is Carine and I'm a Front-end developer!
+## My name is Carine and I'm a Full-stack developer!
 
-- 🔭 I’m currently working at [**@Refera-Tech**](https://github.com/Refera-Tech)
-- 🌱 I’m currently learning more about Web accessibility and performance
-- 💻Technologies I use daily: ReactJS, Typescript, Redux, Sass and styled-components
+- 🔭 I’m currently working as Full-stack developer at [**@Refera-Tech**](https://github.com/Refera-Tech)
+- 🌱 I’m currently learning more about Django
+- 💻Technologies I use daily: ReactJS, Typescript, Redux, styled-components, Django
 - 📫 How to reach me:
   - [**Drop a Mail**](mailto:carinealzira@gmail.com)
   - [**Connect via LinkedIn**](https://www.linkedin.com/in/carine-barros/)
